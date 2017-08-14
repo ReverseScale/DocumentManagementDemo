@@ -11,7 +11,7 @@ OC 实现的文件管理 Demo ，支持图片、文本、视频、动图、PDF�
 | 名称 |1.列表页 |2.PDF页 |3.GIF页 |4.GIF切片页 |5.文本页 |6.视频页 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-14/78455603.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-14/47552819.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-14/51828578.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-14/71948741.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-14/37268874.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-8-14/10129518.jpg) |
-| 描述 | 通过 storyboard 搭建基本框架 | PDF 展示 | GIF 展示 | GIF 切片列表 | 文本展示 | 视频播放 |
+| 描述 | 通过 storyboard 搭建基本框架 | 功能完善的 PDF 浏览工具 | 性能良好的 GIF 展示工具 | 自行封装的 GIF 切片工具 | 简单的文本展示 | 系统级视频播放器 |
 
 
 ## Advantage 框架的优势
@@ -24,22 +24,11 @@ OC 实现的文件管理 Demo ，支持图片、文本、视频、动图、PDF�
 * iOS 7+
 * Xcode 8+
 
-
-## Usage 使用方法
-### 第一步 引入头文件
-```
-#import "OrderDic.h"
-```
-### 第二步 简单调用
-```
-[OrderDic order:dic]
-```
-
 使用简单、效率高效、进程安全~~~如果你有更好的建议,希望不吝赐教!
 
 
 ## License 许可证
-OrderedDictionaryTools 使用 MIT 许可证，详情见 LICENSE 文件。
+DocumentManagementDemo 使用 MIT 许可证，详情见 LICENSE 文件。
 
 
 ## Contact 联系方式:
